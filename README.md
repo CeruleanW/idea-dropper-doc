@@ -1,4 +1,4 @@
-![Logo of the project](./public/favicon-256.png)
+![Logo of the project](https://i.imgur.com/f5JWIUR.png)
 
 # Idea Dropper
 > Write your ideas, drop it in the box, then forget about them.
