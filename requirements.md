@@ -14,11 +14,13 @@
   * Local files
     * markdown file
   * 3rd party services
-    * Take a Google drive folder as a box
+    * Take a Google Drive folder as a box
 * Import files as boxes and cards
   * a folder of markdown files as a box
 * Card operations
+  * Create a new card
   * Read a card
+  * Edit a card
   * Share a card
   * Draw cards randomly
 * Box operations
