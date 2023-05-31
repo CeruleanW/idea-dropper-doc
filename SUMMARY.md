@@ -2,3 +2,4 @@
 
 * [README](README.md)
 * [Requirements](requirements.md)
+* [Get started](get-started.md)
