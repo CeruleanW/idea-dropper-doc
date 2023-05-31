@@ -20,7 +20,7 @@
 * Card operations
   * Create a new card
   * Read a card
-  * Edit a card
+  * Edit a card in a editor
   * Share a card
   * Draw cards randomly
 * Box operations
